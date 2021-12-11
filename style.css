@@ -1,0 +1,39 @@
+body {
+background-size: cover;
+background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+padding: 10px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas {
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+}
+
+#bottle {
+width: 100px;
+background-color: white;
+color: black;
+font-size: 20px;
+font-weight: bold;
+border-radius: 20px;
+}
+#pen {
+width: 100px;
+background-color: white;
+color: black;
+font-size: 20px;
+font-weight: bold;
+border-radius: 20px;
+}
